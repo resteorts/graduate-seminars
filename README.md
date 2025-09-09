@@ -70,8 +70,8 @@
   - Cathy Lee  
     - Title:  
     - Abstract:  
-    - Notes:  
-  - KL411@duke.edu  
+    - Notes:
+  - Houjie Wang
     - Title:  
     - Abstract:  
     - Notes:  
