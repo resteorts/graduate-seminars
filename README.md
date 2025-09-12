@@ -12,16 +12,17 @@
 
 ## Sep 15
 - **Moderator:** Instructor  
-- **Speakers:**  
-  - Rick Pressman  
-    - Title:  
-    - Abstract:  
-    - Notes:  
+- **Speakers:**
+- Rick Presman 
+- Title: Order-constrained Bayesian ordinal regression for the modeling of neuron degeneration in C. elegans (joint work with Amy H. Herring and Joel N. Meyer)
+- Abstract: Neuron degeneration is the underlying mechanism for the progression of many diseases. Quantifying the association between the progression of neuron degradation and the level of toxic exposure is critical to understanding disease development. While efforts have been made in quantifying this progression through the development of scoring systems that assign numerical values to qualitative descriptors of neuron damage, statistical analyses involving these scores are often rudimentary and ignore the ordinal nature of the data, structural relationships between variables, and lack the ability to perform appropriate uncertainty quantification. To account for this gap in the literature, we propose a novel order-restricted Bayesian ordinal regression model that captures the unique nature of neuron damage scores and treatments along with the nonparametric monotonic relationship between them. Our model can be implemented with a straightforward Gibbs sampler, and we demonstrate its interpretability on a real-world dataset along with its comparative performance using a simulation study.
+- - Bio: Rick Presman is a sixth year PhD student advised by Jason Xu.
+- Webpage: https://rpresman.github.io
+  
   - Christine Shen  
-    - Title:  
-    - Abstract:  
-    - Notes:  
-
+- Title: Asymptotic Well-Calibration of the Posterior Predictive $p$-value under the Modified Kolmogorov-Smirnov Test.
+- Abstract: The posterior predictive $p$-value is a widely used tool for Bayesian model checking. However, under general test statistics, its asymptotic null distribution is more concentrated around 1/2 than the uniform distribution. Consequently, its finite-sample behavior is difficult to interpret and tends to lack power, which is a well-known issue among practitioners. The Kolmogorov-Smirnov test with plug-in estimators is a versatile omnibus test statistic. It is sensitive to model misspecification and provides a global measure of model-data discrepancy. We establish that under this test statistic, the posterior predictive $p$-value converges in distribution to uniform under the null. We further use numerical experiments to demonstrate that this $p$-value is well-behaved in finite samples.
+- Bio: Christine Shen is a fifth year PhD student working with Dr. Surya Tokdar.
 ---
 
 ## Sep 22
