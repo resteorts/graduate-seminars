@@ -141,4 +141,3 @@
 - Check the schedule regularly — it is **your responsibility** to stay up to date.  
 - Participation and attendance are required for course credit.
 - Further info regarding the format/expectation are on the 701 canvas page. If you do not have access, please send me an email!
-- Announcements regarding 701 will be posted here as well :) 
