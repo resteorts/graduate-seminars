@@ -32,7 +32,7 @@
 **Speakers:**
 - **Sam Rosen**  
   - **Title:** Not to be posted publicly at request of authors. 
-  - ** Abstract:** Not to be posted publicly at request of authors. 
+  - **Abstract:** Not to be posted publicly at request of authors. 
   - **Bio:**  
 
 - **Riccardo Rossetti**  
