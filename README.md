@@ -35,10 +35,7 @@
     - Title:  
     - Abstract:  
     - Notes:
-  - Aiden Gleich
-    - Title:  
-    - Abstract:  
-    - Notes:
+
 
 ---
 
