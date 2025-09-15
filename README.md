@@ -31,8 +31,8 @@
 
 **Speakers:**
 - **Sam Rosen**  
-  - **Title:**  
-  - **Abstract:**  
+  - **Title:** Not to be posted publicly at request of authors. 
+  - ** Abstract:** Not to be posted publicly at request of authors. 
   - **Bio:**  
 
 - **Riccardo Rossetti**  
