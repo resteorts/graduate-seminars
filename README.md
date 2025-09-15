@@ -34,7 +34,11 @@
   - Sam Rosen  
     - Title:  
     - Abstract:  
-    - Notes:  
+    - Notes:
+  - Jaehoan Kim
+    - Title:  
+    - Abstract:  
+    - Notes:
 
 ---
 
@@ -48,7 +52,11 @@
   - Kevin Li  
     - Title:  
     - Abstract:  
-    - Notes:  
+    - Notes:
+  - Kat Husar
+  -  Title
+  -  Abstract
+  -  Notes: 
 
 ---
 
@@ -74,7 +82,8 @@
   - Houjie Wang
     - Title:  
     - Abstract:  
-    - Notes:  
+    - Notes:
+  
 
 ---
 
