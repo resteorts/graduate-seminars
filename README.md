@@ -26,15 +26,16 @@
 
 ## Sep 22
 - **Moderator:** TBD  
-- **Speakers:**  
-  - Riccardo Rossetti  (20)
-    - Title:  
-    - Abstract:  
-    - Notes:  
-  - Sam Rosen  (10)
+- **Speakers:**
+  - Sam Rosen  
     - Title:  
     - Abstract:  
     - Notes:
+  - Riccardo Rossetti 
+    - Title:  
+    - Abstract:  
+    - Notes:  
+ 
 
 
 ---
@@ -42,18 +43,8 @@
 ## Sep 29
 - **Moderator:** TBD  
 - **Speakers:**  
-  - Glenn Palmer  
-    - Title:  
-    - Abstract:  
-    - Notes:  
-  - Braden Scherting  
-    - Title:  
-    - Abstract:  
-    - Notes:
-  - Kat Husar
-  -  Title
-  -  Abstract
-  -  Notes: 
+  - Glenn Palmer    
+  - Kevin Li
 
 ---
 
@@ -79,11 +70,7 @@
   - Houjie Wang
     - Title:  
     - Abstract:  
-    - Notes:
-   - Sylvia Vincent 
-    - Title:  
-    - Abstract:  
-    - Notes:    
+    - Notes:  
   
 
 ---
@@ -99,10 +86,7 @@
     - Title:  
     - Abstract:  
     - Notes:
-  - Marie Neubrander
-    - Title:  
-    - Abstract:  
-    - Notes:
+
 
 ---
 
@@ -116,17 +100,7 @@
 - **Moderator:** TBD  
 - **Speakers:**  
   - Piotr Suder  
-    - Title:  
-    - Abstract:  
-    - Notes:  
-  - Kevin Lee
-    - Title:  
-    - Abstract:  
-    - Notes:
-  - Houjie Wang
-    - Title:  
-    - Abstract:  
-    - Notes: 
+  - Braden Scherting
 
 ---
 
@@ -141,28 +115,15 @@
     - Title:  
     - Abstract:  
     - Notes:
- - Lorenzo Mauri
-    - Title:  
-    - Abstract:  
-    - Notes:
 
 ---
 
 ## Nov 24
 - **Moderator:** TBD  
-- **Speakers:**  
-  - Aihua Li 
-    - Title:  
-    - Abstract:  
-    - Notes:  
-  - Yen-Chun Liu  
-    - Title:  
-    - Abstract:  
-    - Notes:
- - Leah Johnson
-    - Title:  
-    - Abstract:  
-    - Notes: 
+- **Speakers:**
+-  Lorenzo Mauri  
+ - Yen-Chun Liu  
+   
 
 ---
 
