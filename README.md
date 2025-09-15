@@ -35,7 +35,7 @@
     - Title:  
     - Abstract:  
     - Notes:
-  - Jaehoan Kim
+  - Aiden Gleich
     - Title:  
     - Abstract:  
     - Notes:
@@ -49,7 +49,7 @@
     - Title:  
     - Abstract:  
     - Notes:  
-  - Kevin Li  
+  - Braden Scherting  
     - Title:  
     - Abstract:  
     - Notes:
@@ -83,6 +83,10 @@
     - Title:  
     - Abstract:  
     - Notes:
+   - Sylvia Vincent 
+    - Title:  
+    - Abstract:  
+    - Notes:    
   
 
 ---
@@ -97,7 +101,11 @@
   - Bongjung Sung  
     - Title:  
     - Abstract:  
-    - Notes:  
+    - Notes:
+  - Marie Neubrander
+    - Title:  
+    - Abstract:  
+    - Notes:
 
 ---
 
@@ -114,10 +122,14 @@
     - Title:  
     - Abstract:  
     - Notes:  
-  - Braden Scherting  
+  - Kevin Lee
     - Title:  
     - Abstract:  
-    - Notes:  
+    - Notes:
+  - Houjie Wang
+    - Title:  
+    - Abstract:  
+    - Notes: 
 
 ---
 
@@ -131,21 +143,29 @@
   - Caitrin Murphy  
     - Title:  
     - Abstract:  
-    - Notes:  
+    - Notes:
+ - Lorenzo Mauri
+    - Title:  
+    - Abstract:  
+    - Notes:
 
 ---
 
 ## Nov 24
 - **Moderator:** TBD  
 - **Speakers:**  
-  - Lorenzo Mauri  
+  - Aihua Li 
     - Title:  
     - Abstract:  
     - Notes:  
   - Yen-Chun Liu  
     - Title:  
     - Abstract:  
-    - Notes:  
+    - Notes:
+ - Houjie Wang
+    - Title:  
+    - Abstract:  
+    - Notes: 
 
 ---
 
@@ -157,8 +177,10 @@
 
 ## Notes for Students
 - Email your slides to **Prof. Steorts** at least **24 hours before your presentation**.  
-- Email your **title, abstract, and bio** (and webpage if available) as soon as possible.  
+- Email your **title, abstract, and bio** at least two weeks before your presentation.  
 - Presentation length will default to the **shorter format** unless otherwise approved.  
 - Be prepared to **introduce your fellow speakers** and lead a short discussion.  
 - Check the schedule regularly — it is **your responsibility** to stay up to date.  
-- Participation and attendance are required for course credit.  
+- Participation and attendance are required for course credit.
+- Further info regarding the format/expectation are on the 701 canvas page. If you do not have access, please send me an email!
+- Announcements regarding 701 will be posted here as well :) 
