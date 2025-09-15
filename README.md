@@ -27,7 +27,7 @@
 ---
 
 ## Sep 22
-**Moderator:** TBD  
+**Moderator:** Jannis Bolik  
 
 **Speakers:**
 - **Sam Rosen**  
@@ -43,7 +43,7 @@
 ---
 
 ## Sep 29
-**Moderator:** TBD  
+**Moderator:** Adeli Hutton
 
 **Speakers:**
 - **Glenn Palmer**  
@@ -58,20 +58,18 @@
 
 ---
 
-## Oct 6 — Faculty Meeting
-**Moderator:** TBD  
+## Oct 6 — Faculty Meeting  
 - **No Talks**
 
 ---
 
 ## Oct 13 — Fall Break
-**Moderator:** TBD  
 - **No Talks**
 
 ---
 
 ## Oct 20
-**Moderator:** TBD  
+**Moderator:** Cael Elmore
 
 **Speakers:**
 - **Cathy Lee**  
@@ -87,7 +85,7 @@
 ---
 
 ## Oct 27
-**Moderator:** TBD  
+**Moderator:** Federico Lazzarini
 
 **Speakers:**
 - **Luke Vrotsos**  
@@ -102,14 +100,13 @@
 
 ---
 
-## Nov 3 — Faculty Meeting
-**Moderator:** TBD  
+## Nov 3 — Faculty Meeting  
 - **No Talks**
 
 ---
 
 ## Nov 10
-**Moderator:** TBD  
+**Moderator:** Tory Norton 
 
 **Speakers:**
 - **Piotr Suder**  
@@ -125,7 +122,7 @@
 ---
 
 ## Nov 17
-**Moderator:** TBD  
+**Moderator:** Arunsoumya Basu
 
 **Speakers:**
 - **Suschimita Roy**  
@@ -141,7 +138,7 @@
 ---
 
 ## Nov 24
-**Moderator:** TBD  
+**Moderator:** Jun Chen 
 
 **Speakers:**
 - **Lorenzo Mauri**  
