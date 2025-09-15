@@ -27,11 +27,11 @@
 ## Sep 22
 - **Moderator:** TBD  
 - **Speakers:**  
-  - Riccardo Rossetti  
+  - Riccardo Rossetti  (20)
     - Title:  
     - Abstract:  
     - Notes:  
-  - Sam Rosen  
+  - Sam Rosen  (10)
     - Title:  
     - Abstract:  
     - Notes:
