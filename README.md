@@ -31,9 +31,9 @@
 
 **Speakers:**
 - **Sam Rosen**  
-  - **Title:** Not to be posted publicly at request of authors. 
-  - **Abstract:** Not to be posted publicly at request of authors. 
-  - **Bio:**  
+  - **Title:** Weighted Bayesian Bootstrap for Constrained Posterior Distributions
+  - **Abstract:** The weighted Bayesian bootstrap and its closely related variants have shown robust ability to approximately sample from complicated posterior distributions. We show, under regularity conditions, that the weighted Bayesian bootstrap can be extended to approximately sample posterior distributions with constrained support. An asymptotic result is provided showing samples converge in conditional distribution to a multivariate normal centered at the true underlying parameters with a covariance that is a function of the Fisher information matrix. The generality of the method is shown by examples in a variety of domains that are well-supported by the convex optimization literature, while giving reasonable uncertainty estimates that account for problem constraints.
+  - **Bio:**  Sam Rosen is a fifth-year PhD student working with Jason Xu.
 
 - **Riccardo Rossetti**  
   - **Title:**  
