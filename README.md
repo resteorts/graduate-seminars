@@ -47,9 +47,9 @@
 
 **Speakers:**
 - **Glenn Palmer**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:**  Two Advances in Joint Factor Analysis for Studying Chemical Mixtures
+  - **Abstract:**  In this talk, I briefly highlight two developments in the use of joint factor analysis to evaluate associations between human exposures to environmental chemicals and health outcomes of interest. In "Low-rank longitudinal factor regression with application to chemical mixtures," joint work with Amy Herring and David Dunson, we propose a low-rank longitudinal factor regression (LowFR) model for tractable inference on flexible longitudinal exposure effects. LowFR handles highly-correlated exposures using a Bayesian dynamic factor model, which is fit jointly with a health outcome via a novel factor regression approach. The model collapses on simpler and intuitive submodels when appropriate, while expanding to allow considerable flexibility in time-varying and interaction effects when supported by the data. After demonstrating LowFR’s effectiveness in simulations, we use it to analyze data from the ELEMENT study and find that diethyl and dibutyl phthalate metabolite levels in trimesters 1 and 2 of pregnancy are associated with altered glucose metabolism in adolescence. In "Targeted empirical Bayes for more supervised joint factor analysis," joint work with David Dunson, we propose estimating the residual variance in the response model with an empirical Bayes procedure that targets predictive performance of the response given the predictors. We illustrate that this can lead to substantial improvements in simulation performance. We are particularly motivated by studies assessing the health effects of environmental exposures and provide an illustrative application to NHANES data.
+  - **Bio:**  Glenn Palmer is a fifth-year PhD student working with David Dunson.
 
 - **Kevin Li**  
   - **Title:**  
