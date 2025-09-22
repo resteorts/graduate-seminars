@@ -36,9 +36,9 @@
   - **Bio:**  Sam Rosen is a fifth-year PhD student working with Jason Xu.
 
 - **Riccardo Rossetti**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:**  Statistical Limits for Finite-Rank Tensor Estimation
+  - **Abstract:**  This paper provides a unified framework for analyzing tensor estimation problems that allow for nonlinear observations, heteroskedastic noise, and covariate information. We study a general class of high-dimensional models where each observation depends on the interactions among a finite number of unknown parameters. Our main results provide asymptotically exact formulas for the mutual information (equivalently, the free energy) as well as the minimum mean-squared error in the Bayes-optimal setting. We then apply this framework to derive sharp characterizations of statistical thresholds for two novel scenarios: (1) tensor estimation in heteroskedastic noise that is independent but not identically distributed, and (2) higher-order assignment problems, where the goal is to recover an unknown permutation from tensor-valued observations. 
+  - **Bio:**  Riccardo is a 5th year PhD student advised by Prof. Galen Reeves
 
 ---
 
