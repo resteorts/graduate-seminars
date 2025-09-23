@@ -52,9 +52,9 @@
   - **Bio:**  Glenn Palmer is a fifth-year PhD student working with David Dunson.
 
 - **Kevin Li**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:**  Exploiting Concavity Information in Gaussian Process Contextual Bandit Optimization
+  - **Abstract:**  The contextual bandit framework is widely used to solve sequential optimization problems where the reward of each decision depends on auxiliary context variables. In settings such as medicine, business, and engineering, the decision maker often possesses additional structural information on the generative model that can potentially be used to improve the efficiency of bandit algorithms. We consider settings in which the mean reward is known to be a concave function of the action for each fixed context. Examples include patient-specific dose-response curves in medicine and expected profit in online advertising auctions. We propose a contextual bandit algorithm that accelerates optimization by conditioning the posterior of a Bayesian Gaussian Process model on this concavity information. We design a novel shape-constrained reward function estimator using a specially chosen regression spline basis and constrained Gaussian Process posterior. Using this model, we propose a UCB algorithm and derive corresponding regret bounds. We evaluate our algorithm on numerical examples and test functions used to study optimal dosing of Anti-Clotting medication.
+  - **Bio:**  Kevin Li is a fifth year PhD student. 
 
 ---
 
