@@ -73,9 +73,9 @@
 
 **Speakers:**
 - **Cathy Lee**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:** Experimental Design Considerations for Bot or Not: A Sociological Turing Test (joint work with Ben Rochford, Michelle Qiu, Chris Bail, and D. Sunshine Hillygus) 
+  - **Abstract:**  We investigate how social media users from different demographic groups--defined by race, gender, and political partisanship--perceive social media profiles as either bot or human. Specifically, we ask whether users are more likely to classify profiles from different demographic subgroups as bots compared to profiles that share their own characteristics. To answer this, we design a conjoint experiment in which participants viewed social media threads containing both human- and AI-generated content. Visual cues for race, gender, and partisanship were randomly assigned to the AI-operated profile in each thread. Our analysis reveals systematic demographic biases in bot detection. In this talk, I will highlight the experimental design considerations leading up to our final design, including: (i) conducting a power analysis of our initial dynamic randomized experiment, (ii) pivoting to a static conjoint survey experiment, (iii) designing the treatment exposures, and (iv) assigning and measuring respondent tasks and responses.
+  - **Bio:**  Cathy is a fifth year PhD student working with Dr. Alex Volfovsky.
 
 - **Houjie Wang**  
   - **Title:**  
