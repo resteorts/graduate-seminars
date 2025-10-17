@@ -78,9 +78,9 @@
   - **Bio:**  Cathy is a fifth year PhD student working with Dr. Alex Volfovsky.
 
 - **Houjie Wang**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:** Bayesian Multi-Scale Modeling and Monitoring of Large-Scale Agent Flows in Dynamic Networks  
+  - **Abstract:**  We discuss dynamic modeling of temporal paths of multiple agents through geographic networks with interest in detecting anomalous behavior of agents or subgroups of agents. The focus is sequential, monitoring incoming (noisy) time-trajectory data on huge numbers of agents on large networks in real time.   Models represent geographical regions as networks of nodes as fine geographic zones.  Interpretable Bayesian dynamic models are multi-scale in space, time and agents (ranging from individuals to subsets of agents defined via multiple intersecting features). Multi-scale models capture transitions over time of individual  agents informed by activities at group levels. Methodology leverages decouple/recouples concepts,  enabling model scalability and efficient computation. Analysis is overlaid with decision-theoretic monitoring customized to anomaly detection.  Examples explore large-scale data arising from collaborative studies on real-time monitoring of human population movements in defined regions of a US city landscape.  This highlights the roles and utilities of the methodology in characterizing normal dynamic patterns of trajectories at individual and group-levels, and in anomaly detection.
+  - **Bio:**  Houjie Wang is a fourth-year PhD advised by Prof. Alex Volfovsky and Prof. Mike West.
 
 ---
 
