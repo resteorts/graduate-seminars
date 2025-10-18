@@ -89,14 +89,14 @@
 
 **Speakers:**
 - **Luke Vrotsos**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:**  Dynamic graphical models: Theory, structure and counterfactual forecasting
+  - **Abstract:**  Simultaneous graphical dynamic linear models (SGDLMs) provide advances in flexibility, parsimony and scalability of multivariate time series analysis, with proven utility in forecasting. Core theoretical aspects of such models are developed, including new results linking dynamic graphical and latent factor models. Methodological developments extend existing Bayesian sequential analyses for model marginal likelihood evaluation and counterfactual forecasting. The latter, involving new Bayesian computational developments for missing data in SGDLMs, is motivated by causal applications. A detailed example concerns the effect of the Affordable Care Act's Medicaid expansion on employment, with advances in model uncertainty and staggered adoptions.
+  - **Bio:**  Luke Vrotsos is a fourth-year PhD student in the Statistical Science department at Duke University advised by Mike West and Alex Volfovsky. 
 
 - **Bongjung Sung**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:**  Canonical Polyadic Core Covariance Estimation for Matrix-Variate Data
+  - **Abstract:**  We introduce a novel canonical polyadic (CP) core covariance matrix for matrix-variate data. While the separable covariance model is often considered for modeling the covariance of matrix-variate data due to its parsimony, it may tend to overly simplify the correlation structure of the true covariance. Motivated by the fact that every covariance matrix can be uniquely decomposed into a separable and a core component, we introduce a low-dimensional covariance structure by formulating a spiked CP core covariance model.  To this end, we show how a low-rank core component C can be formulated in terms of CP tensor decomposition.  For square data matrices, this C  satisfies the definition of the core.  For a nonsquare case, this C can be still viewed as a weak core in the sense that it partially satisfies the definition of the core. We illustrate how this CP core covariance model is effective for describing heterogeneity of high-dimensional excitation-emission matrices of water samples from the Neuse river in North Carolina.
+  - **Bio:**  Bongjung is a fourth year PhD candidate working with Peter Hoff.
 
 ---
 
