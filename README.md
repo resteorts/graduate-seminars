@@ -110,14 +110,29 @@
 
 **Speakers:**
 - **Piotr Suder**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:** Multi-Agent Action Filtering Bandits 
+  - **Abstract:**  Real-world recommender systems often employ a hierarchy of machine learning algorithms
+that are applied sequentially to filter and refine choices for a user. In practice, it is common
+for these algorithms to be developed in isolated teams, creating coordination challenges that
+hinder the system’s ability to converge to a globally optimal solution. To characterize the effects
+of coordination among the various components of a recommender system, we introduce the
+Multi-Agent Action Filtering Bandits (MAAFB) framework. MAAFB models the system as
+a sequence of agents, each using its own bandit algorithm to make decisions with only partial
+information about the actions of downstream agents. Our theoretical analysis of the MAAFB
+framework provides simple conditions under which such a system will converge to an optimal
+solution. Furthermore, we investigate the role of coordination between the agents’ exploration
+strategies and provide actionable recommendations for refining large recommender systems
+in the wild. We show that while some alignment in exploration can accelerate learning and
+improve performance, excessive alignment is detrimental. Over-indexing on alignment introduces
+significant bias into the reward estimates learned by upstream agents, ultimately leading to
+poor system-wide performance. This highlights a fundamental tradeoff between coordinated
+exploration and the need for diverse, independent learning in hierarchical multi-agent systems.
+  - **Bio:**  Piotr is a fourth-year PhD student advised by Eric Laber.
 
 - **Braden Scherting**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:**  Joint species distribution modeling of abundance data through latent variable barcodes
+  - **Abstract:**  Accelerating global biodiversity loss has highlighted the role of complex relationships and shared patterns among species in determining their responses to environmental changes. The structure of an ecological community, represented by patterns of dependence among constituent species, signals its robustness more than individual species distributions. We focus on obtaining community-level insights based on underlying patterns in abundances of bird species in Finland. We propose barcode, a modeling framework to infer latent binary and continuous features of samples and species, expanding the class of concurrent ordinations. This approach introduces covariates and spatial autocorrelation hierarchically to facilitate ecological interpretations of the learned features. By analyzing 132 bird species counts, we infer the dominant environmental drivers of the community, species clusters and regions of common profile. Three of the learned drivers correspond to distinct climactic regions with different dominant forest types. Three further drivers are spatially heterogeneous and signal urban, agricultural, and wetland areas, respectively.
+  - **Bio:**  Braden is a fourth year Phd student working with David Dunson. 
 
 ---
 
