@@ -157,14 +157,14 @@ exploration and the need for diverse, independent learning in hierarchical multi
 
 **Speakers:**
 - **Lorenzo Mauri**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:**   Inference on covariance structure in high-dimensional multi-view data
+  - **Abstract:**  This work focuses on covariance estimation for multi-view data. Popular approaches rely on factor-analytic decompositions that have shared and view-specific latent factors. Posterior computation is conducted via expensive and brittle Markov chain Monte Carlo (MCMC) sampling or variational approximations that underestimate uncertainty and lack theoretical guarantees. Our proposed methodology employs spectral decompositions to estimate and align latent factors that are active in at least one view. Conditionally on these factors, we choose jointly conjugate prior distributions for factor loadings and residual variances. The resulting posterior is a simple product of normal-inverse gamma distributions for each variable, bypassing MCMC and facilitating posterior computation. We prove favorable increasing-dimension asymptotic properties, including posterior contraction and central limit theorems for point estimators. We apply the methodology to integrate four high-dimensional views from a multi-omics dataset of cancer cell samples. 
+  - **Bio:**  Lorenzo is a 4th year student working with David Dunson.
 
 - **Yen-Chun Liu**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:**  Optimal Data Integration and Adaptive Sampling for Efficient Treatment Effect Estimation
+  - **Abstract:**  This study addresses the challenge of estimating multiple average treatment effects (ATEs) where complete randomized experimentation is infeasible. We propose two key innovations: (1) a shrinkage estimator that optimally combines observational and experimental data without assuming smooth treatment effects across campaigns, and (2) a Bayesian adaptive experimental design framework that efficiently selects treatments for randomized evaluation that minimizes cumulative risk. Our shrinkage estimator achieves lower risk compared to existing methods by balancing bias-variance tradeoffs, while our adaptive design significantly reduces the costs of campaign randomization. We establish theoretical guarantees including asymptotic normality and regret bounds.
+  - **Bio:**  Yen-Chun is a 4th year PhD student.
 
 ---
 
