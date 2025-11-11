@@ -140,10 +140,10 @@ exploration and the need for diverse, independent learning in hierarchical multi
 **Moderator:** Arunsoumya Basu
 
 **Speakers:**
-- **Suschimita Roy**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+- **Suchismita Roy**  
+  - **Title:**  Improving Coverage of Dynamical Survival Analysis Models through a Latent Gaussian Process
+  - **Abstract:**  Stochastic compartmental models are fundamental tools in epidemic modeling. The Dynamical Survival Analysis (DSA) method replaces the stochastic population-level hazard by its large population limit to approximate the original process. While doing so enables more efficient inference based on survival analytic techniques and retains a count-valued stochastic model on the same state space, the deterministic hazard underestimates the variability, leading to biased posterior uncertainty and incorrect frequentist coverage. To address this limitation, we augment the deterministic DSA formulation with a latent Gaussian process (GP) layer, which reintroduces the missing variance component via a hierarchical model. We show that posterior inference is naturally carried out with a data-augmented HMC-within-Gibbs framework. Through simulation studies, we find that the correction leads to marked improvements in coverage of the credible intervals, and note that the convergence rate varies across different parameter regimes. Finally, we demonstrate the utility of our approach on early COVID‑19 epidemic data from Suizhou city, China.
+  - **Bio:**  Suchismita Roy is a fourth year PhD student advised by Jason Xu and Alex Fisher. 
 
 - **Caitrin Murphy**  
   - **Title:**  
