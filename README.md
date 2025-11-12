@@ -146,9 +146,9 @@ exploration and the need for diverse, independent learning in hierarchical multi
   - **Bio:**  Suchismita Roy is a fourth year PhD student advised by Jason Xu and Alex Fisher. 
 
 - **Caitrin Murphy**  
-  - **Title:**  
-  - **Abstract:**  
-  - **Bio:**  
+  - **Title:**  Mathematical Modeling of Glucose Dynamics in Individuals with Type 1 Diabetes
+  - **Abstract:**  Mathematical modeling is routinely used to describe glucose-insulin dynamics, informing the development of insulin dosing algorithms, quantifying blood glucose variability, and predicting metabolic responses to changes in the system. Differential equations for glucose models are typically constructed so that each parameter corresponds to a distinct physiological process or behavior, balancing parameter interpretability with model fit. However, accurate parameter estimation relies on lab-drawn glucose and insulin measurements, as well as the timing of exogenous glucose entry into the system, making such models impractical for clinical use. To address these concerns, we propose an ordinary differential equation (ODE) model that only requires interstitial blood glucose measurements for parameter estimation. The ODE parameters and mealtimes are jointly estimated using a Metropolis-within-Gibbs sampler. Practical use is demonstrated with blood glucose trajectories from individuals with type 1 diabetes and eating disorder symptoms.
+  - **Bio:**  Caitrin is 4th year PhD student.
 
 ---
 
